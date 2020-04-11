@@ -252,16 +252,16 @@ nav a #openup {
 
 /*  Navigation Style Responsive to 780px*/
 @media screen and (max-width: 780px) {
-    .gift-cards {
-        grid-template-columns: 1fr;
-    }
-    footer .footer-cols {
-        display: none;
-    }
+  .gift-cards {
+    grid-template-columns: 1fr;
+  }
+  footer .footer-cols {
+    display: none;
+  }
 }
 /*  Navigation Style Responsive to 780px*/
 @media screen and (max-hight: 780px) {
-    #showcase p.lead{
-        display: none;
-    }
+  #showcase p.lead {
+    display: none;
+  }
 }
